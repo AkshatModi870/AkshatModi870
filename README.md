@@ -1,4 +1,4 @@
-Hey there! 👋
+# Hey there! 👋
 
 I'm **Akshat**, a data scientist and machine learning engineer based in India.
 
