@@ -1,4 +1,4 @@
-# Hey there! 👋
+Hey there! 👋
 
 I'm **Akshat**, a data scientist and machine learning engineer based in India.
 
@@ -17,7 +17,7 @@ I am driven by deep focus; once a goal is set, time becomes an irrelevant variab
 For campus logistics, I am currently working on a computer vision-based solution (95% similarity threshold) with an automated WhatsApp bot. This involved creating workflows for data transfer, verification, and reliable error management in addition to writing code.
 
 ## 🔭 Current Focus
-My primary mission is optimizing my skills to excel in the **World Quant Championship**. I’m deep in the world of alpha-seeking signals and advanced mathematical modeling.
+My main goal is to maximize my abilities in order to excel in the **World Quant Championship**. I want to intensify my knowledge of sophisticated mathematical modeling and alpha-seeking signals.
 
 ## 📊 Fun Facts
 * I firmly believe Reinforcement Learning is the frontier of trading algorithms.
