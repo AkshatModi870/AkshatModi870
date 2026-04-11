@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Akshat**, a data scientist and machine learning engineer based in India.
+I'm **Akshat**, a Data Scientist and Machine Learning Engineer based in India.
 
 Bridging the nexus of quantitative finance and computer science. I design data-driven systems that control risk and spot opportunities in volatility, not merely fix issues.
 
