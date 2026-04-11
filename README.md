@@ -6,7 +6,7 @@ Bridging the nexus of quantitative finance and computer science. I design data-d
 
 I am driven by deep focus; once a goal is set, time becomes an irrelevant variable.
 
-## 🛠️ The Technical Quiver
+## 🛠️ My Technical Quiver
 
 * **Languages:** Python, SQL, C/C++ 
 * **Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Scilab
