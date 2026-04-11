@@ -1,18 +1,16 @@
 # Hey there! 👋
 
-I'm **[Akshat]**, a data scientist and machine learning engineer based in India.
+I'm **Akshat**, a data scientist and machine learning engineer based in India.
 
 Bridging the nexus of quantitative finance and computer science. I design data-driven systems that control risk and spot opportunities in volatility, not merely fix issues.
 
 I am driven by deep focus; once a goal is set, time becomes an irrelevant variable.
 
-### 🛠️ The Technical Quiver
+## 🛠️ The Technical Quiver
 
 * **Languages:** Python, SQL, C/C++ 
 * **Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Scilab
 * **Mathematical Optimization:** Gradient Descent, Adam, RMSProp
-
----
 
 ## 🏗️ Project in Focus: Lost & Found @ Nirma Uni
 
@@ -20,19 +18,6 @@ For campus logistics, I am currently working on a computer vision-based solution
 
 ## 🔭 Current Focus
 My primary mission is optimizing my skills to excel in the **World Quant Championship**. I’m deep in the world of alpha-seeking signals and advanced mathematical modeling.
-
----
-
-### My Core Competencies
-
-| Domain | Specialties & Techniques |
-| :--- | :--- |
-| **Data Science & AI** | Supervised/Unsupervised Learning, RL (Reinforcement Learning), Transformers (Hugging Face), XGBoost, Sentiment Analysis for market trends. |
-| **Finance & Markets** | Algorithmic Equity Analysis, Volatility Navigation, Alpha Generation. |
-| **Low-Level Systems** | High-Performance Data Pipelines, Memory Optimization, Process Scheduling, Shell Scripting. |
-| **The Mathematics** | Gradient Descent, Adam, RMSProp, DSA (Graphs, Trees, Heaps). |
-
----
 
 ### 📊 Fun Facts About My Code & Math
 * My happiest moments are when I'm optimizing a loop in C++.
