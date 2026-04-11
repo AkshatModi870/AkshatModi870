@@ -19,8 +19,7 @@ For campus logistics, I am currently working on a computer vision-based solution
 ## 🔭 Current Focus
 My primary mission is optimizing my skills to excel in the **World Quant Championship**. I’m deep in the world of alpha-seeking signals and advanced mathematical modeling.
 
-### 📊 Fun Facts About My Code & Math
-* My happiest moments are when I'm optimizing a loop in C++.
+## 📊 Fun Facts
 * I firmly believe Reinforcement Learning is the frontier of trading algorithms.
-* I often compare the stock market's behavior to complex graph theory problems (ask me about Dijkstra’s applied to finance).
 * My favorite mathematical optimization algorithm is **Adam** (it's adaptive!).
+* Hobbies: Story Writing, Gym, Cinematography, Editing
