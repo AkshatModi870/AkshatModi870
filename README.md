@@ -8,9 +8,14 @@ I am driven by deep focus; once a goal is set, time becomes an irrelevant variab
 
 ## 🛠️ My Technical Quiver
 
-* **Languages:** Python, SQL, C/C++ 
-* **Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Scilab
+* **Programming Languages:** Python, SQL, C/C++
+* **DSA:** Graph Algorithms, Memory Optimization, Complexity Analysis
+* **Frameworks:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+* **Tools:** n8n, Power BI
 * **Mathematical Optimization:** Gradient Descent, Adam, RMSProp
+* **ML & AI:** Supervised/Unsupervised Learning, XGBoost, Reinforcement Learning, Transformers, Bayesian Inference
+* **Data Engineering & OPS:** AWS (S3/EC2), Docker, MLflow, FastAPI
+* **Analytical Techniques:** Feature Engineering, A/B testing
 
 ## 🏗️ Project in Focus: Lost & Found @ Nirma Uni
 
