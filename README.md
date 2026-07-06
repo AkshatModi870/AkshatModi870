@@ -17,14 +17,12 @@ I am driven by deep focus; once a goal is set, time becomes an irrelevant variab
 * **Data Engineering & OPS:** AWS (S3/EC2), Docker, MLflow, FastAPI
 * **Analytical Techniques:** Feature Engineering, A/B testing
 
-## 🏗️ Project in Focus: Lost & Found @ Nirma Uni
+## 🏗️ Project in Focus: Tracking of bio-cells using 3D microscopic datasets
 
 For campus logistics, I am currently working on a computer vision-based solution (95% similarity threshold) with an automated WhatsApp bot. This involved creating workflows for data transfer, verification, and reliable error management in addition to writing code.
 
 ## 🔭 Current Focus
 My main goal is to maximize my abilities in order to excel in the **World Quant Championship**. I want to intensify my knowledge of sophisticated mathematical modeling and alpha-seeking signals.
 
-## 📊 Fun Facts
-* I firmly believe Reinforcement Learning is the frontier of trading algorithms.
-* My favorite mathematical optimization algorithm is **Adam** (it's adaptive!).
-* Hobbies: Story Writing, Gym, Cinematography, Editing
+## Hobbies: 
+Gym and Flute playing
