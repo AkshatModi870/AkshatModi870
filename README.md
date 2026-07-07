@@ -21,7 +21,7 @@ I am driven by deep focus; once a goal is set, time becomes an irrelevant variab
 
 Building algorithms to trace individual cells in 3D zebrafish embryos across time. Predicting the path of growing cells in 4 coordinates helps me in solving a "problem" that scientists are encountering nowadays.
 
-## 🔭 Current Focus
+## 🔭 Main Focus
 My main goal is to maximize my abilities in order to excel in the **World Quant Championship**. I want to intensify my knowledge of sophisticated mathematical modeling and alpha-seeking signals.
 
 ## Hobbies: 
