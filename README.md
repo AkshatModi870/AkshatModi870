@@ -17,7 +17,7 @@ I am driven by deep focus; once a goal is set, time becomes an irrelevant variab
 * **Data Engineering & OPS:** AWS (S3/EC2), Docker, MLflow, FastAPI
 * **Analytical Techniques:** Feature Engineering, A/B testing
 
-## 🏗️ Project in Focus: Tracking of bio-cells using 3D microscopic datasets
+## 🏗️ Project in current Focus: Tracking of bio-cells using 3D microscopic datasets
 
 Building algorithms to trace individual cells in 3D zebrafish embryos across time. Predicting the path of growing cells in 4 coordinates helps me in solving a "problem" that scientists are encountering nowadays.
 
