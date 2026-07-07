@@ -13,16 +13,16 @@ I am driven by deep focus; once a goal is set, time becomes an irrelevant variab
 * **Frameworks:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 * **Tools:** n8n, Power BI
 * **Mathematical Optimization:** Gradient Descent, Adam, RMSProp
-* **ML & AI:** Supervised/Unsupervised Learning, XGBoost, Reinforcement Learning, Transformers, Bayesian Inference
+* **ML & AI:** Supervised/Unsupervised Learning, Reinforcement Learning, Transformers, Bayesian Inference
 * **Data Engineering & OPS:** AWS (S3/EC2), Docker, MLflow, FastAPI
 * **Analytical Techniques:** Feature Engineering, A/B testing
 
 ## 🏗️ Project in Focus: Tracking of bio-cells using 3D microscopic datasets
 
-For campus logistics, I am currently working on a computer vision-based solution (95% similarity threshold) with an automated WhatsApp bot. This involved creating workflows for data transfer, verification, and reliable error management in addition to writing code.
+Building algorithms to trace individual cells in 3D zebrafish embryos across time. Predicting the path of growing cells in 4 coordinates helps me in solving a "problem" that scientists are encountering nowadays.
 
 ## 🔭 Current Focus
 My main goal is to maximize my abilities in order to excel in the **World Quant Championship**. I want to intensify my knowledge of sophisticated mathematical modeling and alpha-seeking signals.
 
 ## Hobbies: 
-Gym and Flute playing
+Gymnasium and Flute playing
