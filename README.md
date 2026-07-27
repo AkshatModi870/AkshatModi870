@@ -16,7 +16,8 @@ Bridging the nexus of quantitative finance, healthcare and computer science. I d
 * **Design & Analysis of Algorithms:** Recursion, homogenous and non - homogenous methods of solving.
 * **Analytical Techniques:** Feature Engineering
 * **Domain:** Finance and Healthcare.
-
+* **Research Documentation:** Overleaf.
+* **AI Tools:** Perplexity, Gemini.
 ## 🏗️ Project in current Focus: Tracking of bio-cells using 3D microscopic datasets
 
 Building algorithms to trace individual cells in 3D zebrafish embryos across time. Predicting the path of growing cells in 4 coordinates helps me in solving a "problem" that scientists are encountering nowadays.
