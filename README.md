@@ -8,6 +8,7 @@ Bridging the nexus of quantitative finance, healthcare and computer science. I d
 
 ## 🛠️ My Technical Quiver
 
+* **Device:** Asus Tuf Gaming A15
 * **Programming Languages:** C/C++ (Basic), Python (Intermediate)
 * **Computer Networks:** Wireshark (Intermediate), Cisco Packet Tracer (Intermediate)
 * **Microprocessor & interfaces :** SASM 32 bit Architecture (Intermediate), emu8086 16 bit Architecture (Basic) 
