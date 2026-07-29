@@ -28,5 +28,5 @@ My main goal is to maximize my abilities in order to excel in the **World Quant
 ## Ultra Main Focus 
 I want to make India's own AI powered laptop brand "AGNI".
 
-## Hobbies: 
+## Hobbies
 Gymnasium, chess and Flute playing
