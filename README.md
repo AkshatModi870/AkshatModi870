@@ -12,7 +12,7 @@ Bridging the nexus of quantitative finance, healthcare and computer science. I d
 * **Programming Languages:** C/C++ (Basic), Python (Intermediate)
 * **Computer Networks:** Wireshark (Intermediate), Cisco Packet Tracer (Intermediate)
 * **Microprocessor & interfaces :** SASM 32 bit Architecture (Intermediate), emu8086 16 bit Architecture (Basic) 
-* **Machine Learning :** Modular Programming, CI/CD pipeline, flask (Basic), AWS (Elastic Beanstalk)
+* **Machine Learning :** Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Modular Programming, CI/CD pipeline, AWS (Elastic Beanstalk)
 * **Mathematical Algorithms:** Batch Gradient Descent, Mini-batch Gradient Descent, Stochastic Gradient Descent.
 * **Design & Analysis of Algorithms:** Recursion, homogenous and non - homogenous methods of solving.
 * **Analytical Techniques:** Feature Engineering
