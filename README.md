@@ -26,8 +26,5 @@ Building algorithms to trace individual cells in 3D zebrafish embryos across tim
 ## 🔭 Main Focus
 My main goal is to maximize my abilities in order to excel in the **World Quant Championship**. I want to intensify my knowledge of sophisticated mathematical modeling and alpha-seeking signals.
 
-## Ultra Main Focus 
-I want to make India's own AI powered laptop brand "AGNI".
-
 ## Hobbies
 Gymnasium, chess and Flute playing
